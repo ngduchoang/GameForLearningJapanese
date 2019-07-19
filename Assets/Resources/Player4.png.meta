@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 0d66802affea05b4197928f27b05765a
+timeCreated: 1523373432
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player4_0
+    21300002: Player4_1
+    21300004: Player4_2
+    21300006: Player4_3
+    21300008: Player4_4
+    21300010: Player4_5
+    21300012: Player4_6
+    21300014: Player4_7
+    21300016: Player4_8
+    21300018: Player4_9
+    21300020: Player4_10
+    21300022: Player4_11
+    21300024: Player4_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 71
+        height: 123
+      alignment: 9
+      pivot: {x: .452283084, y: .595432281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player4_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player4_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player4_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player4_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 4
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player4_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 57
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
